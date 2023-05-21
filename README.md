@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
