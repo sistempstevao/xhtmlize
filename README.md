@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Fix PNNX ubuntu -> linux bug (#7050)
