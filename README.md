@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
