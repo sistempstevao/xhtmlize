@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
