@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Optimize function calls to method calls (#8507)
