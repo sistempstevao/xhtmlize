@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Fixed RTDETR GFLOPs bug (#7309)
