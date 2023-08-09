@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Docs partial mdformat improvements (#7378)
