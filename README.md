@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update format.yml to pull_request_target (#7460)
