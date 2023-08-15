@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Reverse IoU threshold for NMS docs descriptions (#9151)
