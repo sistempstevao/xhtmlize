@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix heatmaps width-height order bug (#7184)
