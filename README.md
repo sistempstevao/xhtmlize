@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
