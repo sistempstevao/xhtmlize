@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix xyxyxyxyn calculation in obb result (#8188)
