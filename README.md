@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
