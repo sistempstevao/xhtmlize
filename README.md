@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add OBB benchmarks to CI (#7777)
