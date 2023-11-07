@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Explorer with LanceDB, Actions and Docs updates (#7487)
