@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix OpenVINO missing batch-size bug (#9264)
