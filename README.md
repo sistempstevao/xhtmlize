@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
