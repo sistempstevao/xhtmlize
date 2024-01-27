@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
