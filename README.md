@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Feature: Create HUB Models from CLI or Python Script (#7316)
