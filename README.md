@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
