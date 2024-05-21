@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix Yolo 8.0.206 scale bug (#7821)
