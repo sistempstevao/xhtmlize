@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Compare plt.get_backend() in lowercase (#8409)
