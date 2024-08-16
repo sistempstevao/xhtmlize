@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix IS_PYTHON_3_12 bug (#9258)
