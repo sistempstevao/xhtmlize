@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
